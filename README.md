@@ -5,4 +5,4 @@ Portfolio template for University of Arizona Online Coding Boot Camp through Tri
 
 ## 🗐 Home Page
 
-![Home Page](https://github.com/AnaBoca/todo/blob/master/app/assets/images/home.jpg)
+![Home Page](https://github.com/AnaBoca/portfolio/blob/master/images/home.jpg)
